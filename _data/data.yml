@@ -3,30 +3,25 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Mungyu Choi
-    tagline: Full Stack Developer
+    tagline: MS–Ph.D. student, Electrical Engineering, POSTECH (CSDL), Korea
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mungyu1106@postech.ac.kr
-    phone: 012 345 6789
+    phone: 010 8919 4129
     website: csdl.postech.ac.kr
-    linkedin: alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Intermediate
 
     interests:
       - item: Climbing
