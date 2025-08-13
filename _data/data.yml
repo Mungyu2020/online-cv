@@ -7,25 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Gay 
+    name: Mungyu Choi
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: mungyu1106@postech.ac.kr
     phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: csdl.postech.ac.kr
     linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -51,12 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Mungyu Choi received his B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH), Pohang, South Korea, in 2025. Since 2025, he has been an MS-Ph.D. student in the Department of Electrical Engineering at POSTECH, working with Prof. Seokhyeong Kang in the CAD & SoC Design Lab.
 education:
     - degree: MSc in Computer Science
       university: University of London
