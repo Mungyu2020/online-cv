@@ -46,21 +46,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Howoo Jang received B.S. degree in School of Undergraduate Studies, DGIST (2025), Daegu, South Korea. in 2025. 
-      He is currently a M.S. candidate in Graduate School of Semiconductor Technology in Pohang University of Science and Technology(POSTECH), Pohang, South Korea. 
-      He is working with Prof. Seokhyeong Kang in his CAD & SoC Design Lab.
+        Mungyu Choi received B.S. degree in Electrical Engineering from Pohang University of
+        Science and Technology (POSTECH), Pohang, South Korea, in 2025. He is currently
+        an MS-Ph.D. student in the Department of Electrical Engineering at POSTECH,
+        working with Prof. Seokhyeong Kang in the CAD & SoC Design Lab.
       
 education:
     # title : 
-    - degree: MSc in Graduate School of Semiconductor Technology
-      university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
-      time: Feb 2025 - Present
+    - degree: MS-Ph.D student at EE, POSTECH from 2025
+      university: POSTECH (Pohang University of Science and Technology), Republic of Korea
+      time: Sep. 2025 - Present
       details: |
         Advisor: Prof. Seokhyeong Kang
         
-    - degree: BS in School of Undergraduate Studies
-      university: DGIST (Daegu Gyeongbuk Institute of Science and Technology) , Daegu, Republic of Korea
-      time: Feb 2019 - Feb 2025
+    - degree: Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
+      time: Feb. 2020 - Aug. 2025
       details: |
         
 experiences:
