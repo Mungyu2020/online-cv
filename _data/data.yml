@@ -7,13 +7,13 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Howoo Jang
-    tagline: Master candidate of CSDL, POSTECH in Korea
-    avatar: hwjang.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Mungyu Choi
+    tagline: MS–Ph.D. student, Electrical Engineering, CSDL, POSTECH in Korea
+    avatar: mgchoi.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: janghowoo@postech.ac.kr
-    phone: 010 6663 4154
+    email: mungyu1106@postech.ac.kr
+    phone: 010 8919 4129
     citizenship:
     website: csdl.postech.ac.kr
     linkedin:
@@ -39,11 +39,9 @@ sidebar:
       - item: Electrical Design Automation
         link:
 
-      - item: 
+      - item: Texas hold 'em
         link:
 
-      - item: 
-        link:
 
 career-profile:
     title: Career Profile
