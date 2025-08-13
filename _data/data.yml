@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -47,14 +47,14 @@ career-profile:
     title: Career Profile
     summary: |
         Mungyu Choi received B.S. degree in Electrical Engineering from Pohang University of
-        Science and Technology (POSTECH), Pohang, South Korea, in 2025. He is currently
+        Science and Technology (POSTECH), Pohang, Republic of Korea, in 2025. He is currently
         an MS-Ph.D. student in the Department of Electrical Engineering at POSTECH,
         working with Prof. Seokhyeong Kang in the CAD & SoC Design Lab.
       
 education:
     # title : 
-    - degree: MS-Ph.D student at EE, POSTECH from 2025
-      university: POSTECH (Pohang University of Science and Technology), Republic of Korea
+    - degree: Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
       time: Sep. 2025 - Present
       details: |
         Advisor: Prof. Seokhyeong Kang
@@ -65,16 +65,11 @@ education:
       details: |
         
 experiences:
-    - role: Developer
-      time: Jul 2022 - Mar 2023
-      company: Startup 매일11시, DGIST
-      details: |
+#    - role: Developer
+#      time: Jul 2022 - Mar 2023
+#      company: Startup 매일11시, DGIST
+#      details: |
       
-    - role: Undergraduate Research Intern
-      time: Jul 2024 - Oct 2024
-      company: IICSL, DGIST 
-      details: |
-        High speed transceiver
 
 projects:
     title: Projects
@@ -100,12 +95,13 @@ publications:
     #     conference: Addison-Wesley, 1968
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Python 
-        level: 50%
-
+        level: 30%
+      - name: C++
+        level: 30%
       # - name: Javascript & jQuery
       #   level: 98%
 
